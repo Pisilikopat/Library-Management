@@ -1,0 +1,7 @@
+101 50.00 1965 Dune Frank_Herbert
+101 50.00 1951 Vakif Isaac_Asimov
+101 50.00 1965 Alchermist Paulo_Coelho
+101 50.00 1965 Alchermist Paulo_Coelho
+102 50.00 1927 Nutuk Mustafa_Kemal_Ataturk
+102 120.00 2015 Sapiens Yuval_Noah_Harari
+103 50.00 1943 Kurk_Mantolu_Madonna Sabahattin_Ali
